@@ -1,3 +1,7 @@
 Topics to Learn.
-Practice Done
-Sources
+
+Practice Done.
+
+Sources.
+
+Track my Progress.
